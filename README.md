@@ -8,7 +8,7 @@ The system continuously monitors these facial features, allowing for early detec
 My Role
 
 i worked as a full stack developer.
-i gained the knowledge of flask ,how we create end points and how we route them through this porject. 
+i gained knowledge about flask ,how we create end points and how we route them through this project. 
 
 I created a  Flask web application with two main routes: the home page and the main page. I even  configured the app's settings  by enabling debugging so that if there were any errors we can see them on the browser . 
 On the home page, which handles both GET and POST requests, it checks if the request form is equal to the value of "Continue" If so, it renders the "test1.html" template using the render_template module , 
